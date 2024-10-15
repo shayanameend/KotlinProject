@@ -10,7 +10,7 @@ import androidx.compose.ui.Modifier
 
 
 @Composable
-fun HomeScreen(paddingValues: PaddingValues) {
+fun SettingsScreen(paddingValues: PaddingValues) {
   Column(
     modifier = Modifier
       .fillMaxSize()
@@ -23,7 +23,7 @@ fun HomeScreen(paddingValues: PaddingValues) {
     Button(
       onClick = { }
     ) {
-      Text("Home")
+      Text("Settings")
     }
   }
 }
