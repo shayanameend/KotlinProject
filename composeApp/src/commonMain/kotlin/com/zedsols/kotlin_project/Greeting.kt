@@ -1,5 +1,6 @@
 package com.zedsols.kotlin_project
 
+
 class Greeting {
     private val platform = getPlatform()
 
