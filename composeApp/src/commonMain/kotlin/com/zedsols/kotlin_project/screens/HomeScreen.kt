@@ -13,8 +13,7 @@ import androidx.compose.ui.Modifier
 fun HomeScreen(
   paddingValues: PaddingValues,
   selectedIndex: MutableState<Int>,
-
-  ) {
+) {
   Column(
     modifier = Modifier
       .fillMaxSize()
@@ -31,6 +30,5 @@ fun HomeScreen(
         else -> ""
       }
     )
-
   }
 }
