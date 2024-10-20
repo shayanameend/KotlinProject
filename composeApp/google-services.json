@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211120568158",
+    "project_id": "kotlinapp-e2ece",
+    "storage_bucket": "kotlinapp-e2ece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211120568158:android:5d99fa2f07eb5a12bb81cf",
+        "android_client_info": {
+          "package_name": "com.zedsols.kotlin_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQ829qvlk2ZHwW8G_hS-YuBqkeljQcaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
